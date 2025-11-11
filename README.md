@@ -142,9 +142,9 @@ With practice, these AI tools can generate visuals that mirror real-world images
 
 ---
 
-### Final Remarks
-This experiment demonstrates how **AI-driven image generation** can be directed and refined through **prompt engineering** to reproduce realistic visuals.  
-Tools like **DALL·E**, **Stable Diffusion**, and **MidJourney** open creative possibilities for designers, artists, and developers alike.
+### Result
+
+This experiment demonstrates how AI-driven image generation can be directed and refined through prompt engineering to reproduce realistic visuals.  
 
 ---
 
